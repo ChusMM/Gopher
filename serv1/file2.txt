@@ -1,0 +1,1 @@
+Esto es file2 en directorio raiz

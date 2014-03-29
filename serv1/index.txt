@@ -1,0 +1,3 @@
+0file2.txt	0file2.txt	localhost 7000	+
+1dir	1dir	localhost 7000	+
+0file1.txt	0file1.txt	localhost 7000	+

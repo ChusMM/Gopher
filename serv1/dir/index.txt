@@ -1,0 +1,4 @@
+1subdir		1dir/subdir	  localhost 7000	+
+0file11.txt		0dir/file11.txt	    localhost 7000	+
+0file12.txt		0dir/file12.txt 	localhost 7000	+
+9bin     9dir/bin    localhost 7000  +
